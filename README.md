@@ -7,6 +7,7 @@ This is a redesign of Spotify's website developed for the [Web Developer course 
 - [Links](#links)
 - [Built with](#built-with)
 - [Projects objectives](#objectives)
+- [Status](#status)
 - [Author](#author)
 
 
@@ -26,6 +27,9 @@ This is a redesign of Spotify's website developed for the [Web Developer course 
 ### Projects objectives
 
 The objective of this project was to practice with Bootstrap framework, CSS and HTML to improve my skills. I used carousel from Bootstrap to do the hero's slideshow, Bootstrap inline styles, embedding of Google fonts, flexbox grid.
+
+### Status
+- Finished :heavy_check_mark:
 
 ### Author
 
