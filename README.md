@@ -1,6 +1,6 @@
 # Redesign Spotify Website
 
-This is a redesign of Spotify's website developed for the [Web Developer course at Udemy](https://www.udemy.com/course/web-completo/).
+This is a redesign of Spotify's website developed for the [Web Developer course at Udemy](https://www.udemy.com/course/web-completo/).   
 <a href="https://cindyhanae.github.io/projeto-spotify/" target="_blank">Link to app</a>
 
 ## Table of contents
