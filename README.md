@@ -4,18 +4,20 @@ This is a redesign of Spotify's website developed for the [Web Developer course 
 
 ## Table of contents
 
-- [Links](#links)
-- [Built with](#built-with)
-- [Projects objectives](#objectives)
-- [Status](#status)
-- [Author](#author)
+<ul>
+ <li><a href="#links" target="_blank">Links</a></li>
+  <li><a href="#built" target="_blank">Built with</a></li>
+  <li><a href="#description" target="_blank">Description</a></li>
+  <li><a href="#status" target="_blank">Status</a></li>
+  <li><a href="#author" target="_blank">Author</a></li>
+</ul>
 
 
-### Links
+<h2 id="links">Links</h2
  - Original site: [Spotify](https://www.spotify.com/br/home/)
  - Redesign: [ My redesign](https://cindyhanae.github.io/projeto-spotify/)
 
-### Project built with
+<h2 id="built">Built with</h2
  - HTML
  - CSS 
  - Javascript
@@ -24,14 +26,14 @@ This is a redesign of Spotify's website developed for the [Web Developer course 
  - Mobile-first workflow
  - Media queries
 
-### Projects objectives
+<h2 id="description">Description</h2>
 
 The objective of this project was to practice with Bootstrap framework, CSS and HTML to improve my skills. I used carousel from Bootstrap to do the hero's slideshow, Bootstrap inline styles, embedding of Google fonts, flexbox grid.
 
-### Status
-- Finished :heavy_check_mark:
+<h2 id="status">Status</h2>
+Finished :heavy_check_mark:
 
-### Author
+<h2 id="author">Author</h2>
 
 Made with :heart: by Cindy Hanae
 
