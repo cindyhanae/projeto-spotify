@@ -8,8 +8,8 @@
 }
 
 body {
-	background: url(projeto-inicial-spotify/imagens/capa.png),
-				url(projeto-inicial-spotify/imagens/ruido.png),
+	background: url(./imagens/capa.png),
+				url(./imagens/ruido.png),
 				linear-gradient(50deg,#ff4169,#7c26f8);
 	background-attachment: fixed;
 	font-family: 'Roboto', sans-serif;
@@ -211,8 +211,26 @@ footer h4 {
 	color: #919496;
 }
 
+.attribution{
+	text-align: center;
+	margin-top: 32px;
+}
 
+.attribution p{
+	font-size: 15px;
+	color: white;
+	font-weight: 700;
+}
 
+.attribution a{
+	text-decoration: none;
+	color: #9bf0e1;
+	transition: .3s ease;
+}
+
+.attribution a:hover{
+	color: #7c25f8;
+}
 /*Dispositivos extra small*/
 @media (max-width: 575.98px) {
 	.btn-custom {
