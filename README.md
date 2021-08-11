@@ -14,18 +14,21 @@ This is a redesign of Spotify's website developed for the [Web Developer course 
 </ul>
 
 
-<h2 id="links">Links</h2
- - Original site: [Spotify](https://www.spotify.com/br/home/)
- - Redesign: [ My redesign](https://cindyhanae.github.io/projeto-spotify/)
+<h2 id="links">Links</h2>
+<p><a href="https://www.spotify.com/br/home/" target="_blank">Original site</a></p>
+<p><a href="https://cindyhanae.github.io/projeto-spotify/" target="_blank">Redesign</a></p>
 
-<h2 id="built">Built with</h2
- - HTML
- - CSS 
- - Javascript
- - Bootstrap
- - Google fonts
- - Mobile-first workflow
- - Media queries
+
+<h2 id="built">Built with</h2>
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>Javascript</li>
+ <li>Bootstrap</li>
+ <li>Google fonts</li>
+ <li>Mobile-first workflow</li>
+ <li> Media queries</li>
+</ul>
 
 <h2 id="description">Description</h2>
 
